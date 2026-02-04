@@ -4,7 +4,7 @@ go 1.24.1
 
 require (
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/TecharoHQ/anubis v1.14.3-0.20250322224449-6156d3d7293a
+	github.com/TecharoHQ/anubis v1.24.0
 )
 
 require (
